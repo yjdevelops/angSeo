@@ -1,0 +1,26 @@
+.navb {
+    background-color: crimson;
+    color: white;
+    text-align: justify;
+    padding: 12px;
+}
+
+.tline {
+    padding-top: 5px;
+}
+
+.nb {
+    background-color:lightcoral;
+}
+
+.al {
+    color: white;
+}
+
+.al :hover {
+    color: yellow;
+}
+
+.ck {
+    font-size:220%;
+}

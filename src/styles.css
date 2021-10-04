@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+.card {
+    border: none;
+    outline: none;
+    background-color:ghostwhite;
+    border-radius: 20px;
+    transition: transform .3s;
+}
+
+.card:hover {
+    transform: translateY(-16px);
+    transition: transform .3s;
+}
+
+.text1 {
+    font-size: 15px;
+    color:darkgray
+}
+
+.info {
+    line-height: 15px;
+}
+
+.cost span {
+    color:mediumvioletred;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.shoe {
+    background:crimson
+}
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
